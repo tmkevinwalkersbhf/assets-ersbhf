@@ -1,0 +1,2 @@
+# assets-ersbhf
+static assets
